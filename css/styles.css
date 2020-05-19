@@ -10213,6 +10213,9 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
+.full-screen-fix {
+  min-height: calc(100vh - 150px);
+}
 /*.nav-button {
   padding: 0.85rem !important;
   margin-left: 1rem;
