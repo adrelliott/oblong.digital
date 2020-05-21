@@ -46,7 +46,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <div class="row  pt-3">
-                    <div class="col-md-4 col-lg-3 text-center">
+                    <div class="col-md-4 col-lg-3 text-center mb-4">
                         <img class="" src="assets/img/obl_home.png" width="200px" alt="" />
                     </div>
                     <div class="col-md-8 col-lg-9">
@@ -158,8 +158,8 @@
                    <!-- No icon for this section -->
                 </div>
                 <div class="row text-center mt-5">
-                    <div class="col-md-4 col-lg-4 ">
-                        <img class="mb-5" src="assets/img/1.png" alt="Number 1">
+                    <div class="col-md-4 col-lg-4 mb-5">
+                        <img class="mb-3" src="assets/img/1.png" alt="Number 1">
                         <h3 class="text-uppercase ">
                             ATTRACT
                         </h3>
@@ -167,8 +167,8 @@
                             We get clear on who your perfect customer is, then build the right offer to attract them into your sales funnel. 
                         </p>
                     </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <img class="mb-5" src="assets/img/2.png" alt="Number 2">
+                    <div class="col-md-4 col-lg-4 mb-5">
+                        <img class="mb-3" src="assets/img/2.png" alt="Number 2">
                         <h3 class="text-uppercase">
                             NURTURE
                         </h3>
@@ -176,8 +176,8 @@
                             When a prospect shows interest, it's vital to gain their trust so you can elegantly lead them towards a purchase.
                         </p>
                     </div>
-                    <div class="col-md-4 col-lg-4 ">
-                        <img class="mb-5" src="assets/img/3.png" alt="Number 3">
+                    <div class="col-md-4 col-lg-4 mb-5">
+                        <img class="mb-3" src="assets/img/3.png" alt="Number 3">
                         <h3 class="text-uppercase">
                             OPTIMISE
                         </h3>
@@ -203,7 +203,7 @@
             </div>
             <div class="container mt-5">
             <div class="row text-center">
-                <div class="col-md-4 col-lg-4 ">
+                <div class="col-md-4 col-lg-4 mb-5">
                      <div class="avatar mx-auto mb-4">
                         <img src="assets/img/testimonials/andrew_r.jpg" class="rounded-circle img-fluid"
                             alt="First sample avatar image">
@@ -216,7 +216,7 @@
                     <h4 class="font-weight-bold">Andrew Ritchie</h4>
                     <h6 class="font-weight-bold my-3">CEO, Entrepreneur School</h6>
                 </div>
-                <div class="col-md-4 col-lg-4 ">
+                <div class="col-md-4 col-lg-4 mb-5">
                      <div class="avatar mx-auto mb-4">
                         <img src="assets/img/testimonials/phil_oconnor.jpg" class="rounded-circle img-fluid"
                             alt="First sample avatar image">
@@ -229,7 +229,7 @@
                     <h4 class="font-weight-bold">Phil O'Connor</h4>
                     <h6 class="font-weight-bold my-3">Whitewell Financial Planning</h6>
                 </div>
-                <div class="col-md-4 col-lg-4 ">
+                <div class="col-md-4 col-lg-4 mb-5">
                      <div class="avatar mx-auto mb-4">
                         <img src="assets/img/testimonials/dave_wood.jpg" class="rounded-circle img-fluid"
                             alt="First sample avatar image">
@@ -263,7 +263,7 @@
                 <!-- About Section Content-->
                 <div class="row mb-4">
                     <div class="col-lg-10 ml-auto mr-auto">
-                        <div class="text-center mt-3">
+                        <div class="text-center mt-3 mb-3">
                             <figure class="figure">
                                 <img src="assets/img/al_elliott_founder_250.png" class="figure-img img-fluid rounded" alt="...">
                                 <figcaption class="figure-caption text-white">Al Elliott, Founder</figcaption>
@@ -271,34 +271,34 @@
                         </div>
                         <div class="">
                             <h3>“I launched this agency because I was fed-up of seeing hard-working business owners getting bad marketing advice.”</h3>
-                        <p class="lead">
-                            I know you don’t want to send spam - but you probably are.
-                        </p>
-                        <p>
-                            You see, SPAM isn’t just emails about Viagra and Nigerian inheritances - spam is anything that your subscribers don’t want to open. Subscribers <strong>only open your emails when they help to solve their problems</strong>. 
-                        </p>
-                        <ul>
-                            <li>
-                                That newsletter about the certification Martha in accounts just got? Your readers barely care.
-                            </li>
-                            <li>
-                                That beautfully designed promo that got just a 10% open rate? Good chance it never even got to the inbox (Gmail/Outlook know this is a promo and send it to spam)
-                            </li>
-                            <li>
-                                The email launch campaign you spent hours on? Your subscribers don’t want your product - they want to a better life.
-                            </li>
-                        </ul>
-                        <p>
-                            Our golden rule here is this: ‘Make it look like a note from a friend’
-                        </p>
-                        <p>
-                            So instead of fancy graphics and fussy buy-now buttons, your emails should be a few lines on how your product/service solves their problem.</p>
-                        <p>
-                            When done right, email outperforms every other channel out there. Imagine spending £1 and getting £44 worth
-                             of revenue back - yep, that’s what email can do for you.</p>
-                        <p>
-                            <a href="/book">Book a consult</a> with one of our friendly team today.
-                        </p>
+                            <p class="lead">
+                                I know you don’t want to send spam - but you probably are.
+                            </p>
+                            <p>
+                                You see, SPAM isn’t just emails about Viagra and Nigerian inheritances - spam is anything that your subscribers don’t want to open. Subscribers <strong>only open your emails when they help to solve their problems</strong>. 
+                            </p>
+                            <ul>
+                                <li>
+                                    That newsletter about the certification Martha in accounts just got? Your readers barely care.
+                                </li>
+                                <li>
+                                    That beautfully designed promo that got just a 10% open rate? Good chance it never even got to the inbox (Gmail/Outlook know this is a promo and send it to spam)
+                                </li>
+                                <li>
+                                    The email launch campaign you spent hours on? Your subscribers don’t want your product - they want to a better life.
+                                </li>
+                            </ul>
+                            <p>
+                                Our golden rule here is this: ‘Make it look like a note from a friend’
+                            </p>
+                            <p>
+                                So instead of fancy graphics and fussy buy-now buttons, your emails should be a few lines on how your product/service solves their problem.</p>
+                            <p>
+                                When done right, email outperforms every other channel out there. Imagine spending £1 and getting £44 worth
+                                 of revenue back - yep, that’s what email can do for you.</p>
+                            <p>
+                                <a href="/book">Book a consult</a> with one of our friendly team today.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -322,7 +322,7 @@
                     <h3>Thankfully, email marketing is finally improving. So what's changed <i>exactly</i>?</h3>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-med-6 col-lg-6">
+                    <div class="col-med-6 col-lg-6 mb-3">
                        <div class="card border-danger">
                            <div class="card-body ">
                                 <h3 class="text-danger text-center mb-3 text-uppercase">The Old Way</h3>
@@ -347,7 +347,7 @@
                            </div>  
                        </div>
                     </div>
-                    <div class="col-med-6 col-lg-6">
+                    <div class="col-med-6 col-lg-6 mb-3">
                        <div class="card border-success">
                            <div class="card-body">
                                 <h3 class="text-success text-center mb-3 text-uppercase">The New Way</h3>
