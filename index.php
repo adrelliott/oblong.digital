@@ -46,10 +46,10 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <div class="row  pt-3">
-                    <div class="col-md-4 col-lg-3 text-center mb-4">
+                    <div class="col-lg-3 text-center mb-5">
                         <img class="" src="assets/img/obl_home.png" width="200px" alt="" />
                     </div>
-                    <div class="col-md-8 col-lg-9">
+                    <div class="col-lg-9 text-sm-center text-md-center">
                         <h3>We believe in conversion-first design...</h3>
                         <p>
                             At Oblong Digital, we don’t just build email campaigns - we build email campaigns that actually work.
@@ -203,7 +203,7 @@
             </div>
             <div class="container mt-5">
             <div class="row text-center">
-                <div class="col-md-4 col-lg-4 mb-5">
+                <div class="col-md-6 col-lg-4 mb-5">
                      <div class="avatar mx-auto mb-4">
                         <img src="assets/img/testimonials/andrew_r.jpg" class="rounded-circle img-fluid"
                             alt="First sample avatar image">
@@ -216,7 +216,7 @@
                     <h4 class="font-weight-bold">Andrew Ritchie</h4>
                     <h6 class="font-weight-bold my-3">CEO, Entrepreneur School</h6>
                 </div>
-                <div class="col-md-4 col-lg-4 mb-5">
+                <div class="col-md-6 col-lg-4 mb-5">
                      <div class="avatar mx-auto mb-4">
                         <img src="assets/img/testimonials/phil_oconnor.jpg" class="rounded-circle img-fluid"
                             alt="First sample avatar image">
@@ -229,7 +229,7 @@
                     <h4 class="font-weight-bold">Phil O'Connor</h4>
                     <h6 class="font-weight-bold my-3">Whitewell Financial Planning</h6>
                 </div>
-                <div class="col-md-4 col-lg-4 mb-5">
+                <div class="col-md-12 col-lg-4 mb-5">
                      <div class="avatar mx-auto mb-4">
                         <img src="assets/img/testimonials/dave_wood.jpg" class="rounded-circle img-fluid"
                             alt="First sample avatar image">
@@ -269,7 +269,7 @@
                                 <figcaption class="figure-caption text-white">Al Elliott, Founder</figcaption>
                             </figure>
                         </div>
-                        <div class="">
+                        <div class="text-sm-center text-md-center">
                             <h3>“I launched this agency because I was fed-up of seeing hard-working business owners getting bad marketing advice.”</h3>
                             <p class="lead">
                                 I know you don’t want to send spam - but you probably are.
@@ -322,7 +322,7 @@
                     <h3>Thankfully, email marketing is finally improving. So what's changed <i>exactly</i>?</h3>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-med-6 col-lg-6 mb-3">
+                    <div class="col-md-6 col-lg-6 mb-3 ">
                        <div class="card border-danger">
                            <div class="card-body ">
                                 <h3 class="text-danger text-center mb-3 text-uppercase">The Old Way</h3>
@@ -347,7 +347,7 @@
                            </div>  
                        </div>
                     </div>
-                    <div class="col-med-6 col-lg-6 mb-3">
+                    <div class="col-md-6 col-lg-6 mb-3 ">
                        <div class="card border-success">
                            <div class="card-body">
                                 <h3 class="text-success text-center mb-3 text-uppercase">The New Way</h3>
