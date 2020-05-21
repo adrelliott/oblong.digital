@@ -20,11 +20,13 @@
                         <p class="text-uppercase lead">
                             Up to 43% return on your investment
                         </p>
+                        <hr class="d-md-none d-lg-none d-xl-none mt-4 mb-4">
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <p class="text-uppercase lead">
                             We're a Full Service Email Agency
                         </p>
+                        <hr class="d-md-none d-lg-none d-xl-none mt-4 mb-4">
                     </div>
                     <div class="col-md-4 col-lg-4 ">
                         <p class="text-uppercase lead">
